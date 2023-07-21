@@ -73,10 +73,10 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: 'https://0xSoundOfSilence.github.io/assets/'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 'https://pbs.twimg.com/profile_images/1664209935243137024/kHjoZ7hT_400x400.jpg'
+avatar: /assets/avatar/0xSoundOfSilence.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
