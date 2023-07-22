@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-baseurl: '' 
+baseurl: '/0xSoundOfSilence.github.io' 
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -37,7 +37,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: 0xSoundOfSilence
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -73,10 +73,10 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: 'https://i.imgur.com'
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "/assets/avatar.jpg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
