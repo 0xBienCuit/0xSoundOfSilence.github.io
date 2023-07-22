@@ -1,8 +1,5 @@
 ---
 layout: post
-Author: 0xZeeQa
-Date: "2022-05-30"
-Title: Command Injection found in game client
 ---
 ## Summary 
 
