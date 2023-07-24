@@ -1,10 +1,6 @@
 ---
 Author: 0xSoundOfSilence
 date: "2021-04-13"
-keywords:
-- Markdown
-- Example
-lang: en
 subject: Markdown
 title: Try Hack Me - CMesS
 layout: post
