@@ -1,5 +1,5 @@
 ---
-author: 0xSoundOfSilence
+Author: 0xSoundOfSilence
 date: "2021-04-13"
 keywords:
 - Markdown
