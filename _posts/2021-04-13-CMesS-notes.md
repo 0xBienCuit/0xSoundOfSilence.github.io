@@ -7,6 +7,7 @@ keywords:
 lang: en
 subject: Markdown
 title: Try Hack Me - CMesS
+layout: post
 ---
 
 # Write-Up CMesS
